@@ -22,7 +22,7 @@ function switchOnCharmFromTip(customerTip){
   case customerTip === 'generous':
     return 'Thank you so much.'
     break;
-  case customerTip === 'not as generous' 0:
+  case customerTip === 'not as generous':
     return 'Thank you.'
     break;
   default:
