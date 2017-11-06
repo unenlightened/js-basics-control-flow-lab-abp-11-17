@@ -1,7 +1,7 @@
 // Write your code in this file!
-const customerFeet = 150;
-const customerCity = 'Houston';
-const customerTip = 'generous';
+//const customerFeet = 150;
+//const customerCity = 'Houston';
+//const customerTip = 'generous';
 
 function scuberGreetingForFeet(customerFeet){
   if (customerFeet<=400){
